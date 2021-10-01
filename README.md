@@ -18,3 +18,9 @@ Lista demarcada:
 * Teste 2
    * Subteste
 * Teste 3
+
+Listas de Tarefa:
+- []Estudar HTML5
+- []Estudar CSS3
+- []Não Procrastinar
+- [x]Procrastinar só um pouquinho
