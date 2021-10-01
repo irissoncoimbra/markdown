@@ -43,4 +43,4 @@ Listas de Tarefa:
      então eu simplesmente confio
 ```
 
-Fala galerinha 🏖️
+Fala galerinha :skateboard:
