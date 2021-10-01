@@ -23,4 +23,4 @@ Listas de Tarefa:
  - [ ] Estudar HTML5
  - [ ] Estudar CSS3
  - [ ] Não Procrastinar
- - [ ] Procrastinar só um pouquinho
+ - [x] Procrastinar só um pouquinho
