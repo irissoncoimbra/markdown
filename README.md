@@ -20,7 +20,7 @@ Lista demarcada:
 * Teste 3
 
 Listas de Tarefa:
-- [ ]Estudar HTML5
-- [ ]Estudar CSS3
-- [ ]Não Procrastinar
-- [ ]Procrastinar só um pouquinho
+ - [ ]Estudar HTML5
+ - [ ]Estudar CSS3
+ - [ ]Não Procrastinar
+ - [ ]Procrastinar só um pouquinho
