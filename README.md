@@ -42,3 +42,5 @@ Listas de Tarefa:
      Mas me disseram que eu vou aprender
      então eu simplesmente confio
 ```
+
+Fala galerinha :vulcan_salute
