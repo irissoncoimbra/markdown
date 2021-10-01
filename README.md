@@ -34,3 +34,11 @@ Listas de Tarefa:
  Num | Nome | Nota
  ---|---|---
  1 | Irisson |8,5
+
+ Podemos colocar `comandos` também ou uma prgramação inteira
+
+ ```
+ Èu não sei nada de python (ainda)
+     Mas me disseram que eu vou aprender
+     então eu simplesmente confio
+```
