@@ -43,4 +43,4 @@ Listas de Tarefa:
      então eu simplesmente confio
 ```
 
-Fala galerinha :vulcan_salute
+Fala galerinha 🏖️
