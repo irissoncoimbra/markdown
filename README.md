@@ -44,3 +44,7 @@ Listas de Tarefa:
 ```
 
 Fala galerinha :skateboard:
+
+> Será que vai chover?
+
+Muito legal sua postagem!
